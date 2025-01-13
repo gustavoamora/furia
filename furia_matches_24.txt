@@ -1,0 +1,872 @@
+# Confronto: FURIA vs FaZe
+Campeonato: Perfect World Shanghai Major 2024
+Data: 8 Dec
+Placar: FURIA 1-2 FaZe
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/110639/faze-vs-furia
+
+# Confronto: FURIA vs paiN
+Campeonato: Perfect World Shanghai Major 2024
+Data: 7 Dec
+Placar: FURIA 2-1 paiN
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/110607/furia-vs-pain
+
+# Confronto: FURIA vs Liquid
+Campeonato: Perfect World Shanghai Major 2024
+Data: 6 Dec
+Placar: FURIA 9-13 Liquid
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/189175/furia-vs-liquid
+
+# Confronto: FURIA vs Vitality
+Campeonato: Perfect World Shanghai Major 2024
+Data: 5 Dec
+Placar: FURIA 13-16 Vitality
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/189127/vitality-vs-furia
+
+# Confronto: FURIA vs Spirit
+Campeonato: Perfect World Shanghai Major 2024
+Data: 5 Dec
+Placar: FURIA 13-6 Spirit
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/189117/spirit-vs-furia
+
+# Confronto: FURIA vs BIG
+Campeonato: Perfect World Shanghai Major 2024 Opening Stage
+Data: 2 Dec
+Placar: FURIA 2-1 BIG
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/110478/big-vs-furia
+
+# Confronto: FURIA vs Wildcard
+Campeonato: Perfect World Shanghai Major 2024 Opening Stage
+Data: 1 Dec
+Placar: FURIA 16-14 Wildcard
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/188914/furia-vs-wildcard
+
+# Confronto: FURIA vs Imperial
+Campeonato: Perfect World Shanghai Major 2024 Opening Stage
+Data: 30 Nov
+Placar: FURIA 13-11 Imperial
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/188860/furia-vs-imperial
+
+# Confronto: FURIA vs GamerLegion
+Campeonato: Perfect World Shanghai Major 2024 Opening Stage
+Data: 30 Nov
+Placar: FURIA 8-13 GamerLegion
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/188842/gamerlegion-vs-furia
+
+# Confronto: FURIA vs M80
+Campeonato: Perfect World Shanghai Major 2024 Americas RMR
+Data: 15 Nov
+Placar: FURIA 2-0 M80
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/110146/m80-vs-furia
+
+# Confronto: FURIA vs 9z
+Campeonato: Perfect World Shanghai Major 2024 Americas RMR
+Data: 15 Nov
+Placar: FURIA 2-0 9z
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/110132/9z-vs-furia
+
+# Confronto: FURIA vs Liquid
+Campeonato: Perfect World Shanghai Major 2024 Americas RMR
+Data: 14 Nov
+Placar: FURIA 1-2 Liquid
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/110098/liquid-vs-furia
+
+# Confronto: FURIA vs BOSS
+Campeonato: Perfect World Shanghai Major 2024 Americas RMR
+Data: 13 Nov
+Placar: FURIA 13-1 BOSS
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/187980/boss-vs-furia
+
+# Confronto: FURIA vs Case
+Campeonato: Perfect World Shanghai Major 2024 Americas RMR
+Data: 12 Nov
+Placar: FURIA 13-5 Case
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/187936/furia-vs-case
+
+# Confronto: FURIA vs Legacy
+Campeonato: Perfect World Shanghai Major 2024 Americas RMR
+Data: 12 Nov
+Placar: FURIA 17-19 Legacy
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/187902/furia-vs-legacy
+
+# Confronto: FURIA vs MOUZ
+Campeonato: IEM Rio 2024
+Data: 12 Oct
+Placar: FURIA 0-2 MOUZ
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/109395/furia-vs-mouz
+
+# Confronto: FURIA vs Natus Vincere
+Campeonato: IEM Rio 2024
+Data: 9 Oct
+Placar: FURIA 2-0 Natus Vincere
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/109324/furia-vs-natus-vincere
+
+# Confronto: FURIA vs MOUZ
+Campeonato: IEM Rio 2024
+Data: 7 Oct
+Placar: FURIA 2-1 MOUZ
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/109251/furia-vs-mouz
+
+# Confronto: FURIA vs FaZe
+Campeonato: IEM Rio 2024
+Data: 7 Oct
+Placar: FURIA 13-7 FaZe
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/185955/faze-vs-furia
+
+# Confronto: FURIA vs Spirit
+Campeonato: ESL Pro League Season 20
+Data: 17 Sep
+Placar: FURIA 0-2 Spirit
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Anubis (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108467/spirit-vs-furia
+
+# Confronto: FURIA vs RED Canids
+Campeonato: ESL Pro League Season 20
+Data: 15 Sep
+Placar: FURIA 2-0 RED Canids
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108413/red-canids-vs-furia
+
+# Confronto: FURIA vs ATOX
+Campeonato: ESL Pro League Season 20
+Data: 14 Sep
+Placar: FURIA 2-0 ATOX
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108381/atox-vs-furia
+
+# Confronto: FURIA vs Virtus.pro
+Campeonato: ESL Pro League Season 20
+Data: 13 Sep
+Placar: FURIA 1-2 Virtus.pro
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108352/furia-vs-virtuspro
+
+# Confronto: FURIA vs RED Canids
+Campeonato: ESL Pro League Season 20
+Data: 13 Sep
+Placar: FURIA 2-1 RED Canids
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108337/furia-vs-red-canids
+
+# Confronto: FURIA vs Vitality
+Campeonato: ESL Pro League Season 20
+Data: 12 Sep
+Placar: FURIA 0-2 Vitality
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+  Anubis (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108311/vitality-vs-furia
+
+# Confronto: FURIA vs Falcons
+Campeonato: ESL Pro League Season 20
+Data: 11 Sep
+Placar: FURIA 2-1 Falcons
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Anubis (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/108273/furia-vs-falcons
+
+# Confronto: FURIA vs Eternal Fire
+Campeonato: BetBoom Dacha Belgrade Season 2
+Data: 30 Aug
+Placar: FURIA 1-2 Eternal Fire
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107949/eternal-fire-vs-furia
+
+# Confronto: FURIA vs Spirit
+Campeonato: BetBoom Dacha Belgrade Season 2
+Data: 29 Aug
+Placar: FURIA 0-2 Spirit
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+  Anubis (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107918/spirit-vs-furia
+
+# Confronto: FURIA vs Virtus.pro
+Campeonato: BetBoom Dacha Belgrade Season 2
+Data: 28 Aug
+Placar: FURIA 2-0 Virtus.pro
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107858/virtuspro-vs-furia
+
+# Confronto: FURIA vs Eternal Fire
+Campeonato: BetBoom Dacha Belgrade Season 2 Play-in
+Data: 27 Aug
+Placar: FURIA 19-17 Eternal Fire
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/182507/eternal-fire-vs-furia
+
+# Confronto: FURIA vs 9 Pandas
+Campeonato: BetBoom Dacha Belgrade Season 2 Play-in
+Data: 27 Aug
+Placar: FURIA 2-0 9 Pandas
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107789/furia-vs-9-pandas
+
+# Confronto: FURIA vs Aurora
+Campeonato: BetBoom Dacha Belgrade Season 2 Play-in
+Data: 26 Aug
+Placar: FURIA 2-1 Aurora
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+  Inferno (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107713/aurora-vs-furia
+
+# Confronto: FURIA vs 9 Pandas
+Campeonato: BetBoom Dacha Belgrade Season 2 Play-in
+Data: 25 Aug
+Placar: FURIA 0-2 9 Pandas
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107677/furia-vs-9-pandas
+
+# Confronto: FURIA vs Liquid
+Campeonato: IEM Cologne 2024
+Data: 12 Aug
+Placar: FURIA 0-2 Liquid
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107228/liquid-vs-furia
+
+# Confronto: FURIA vs Vitality
+Campeonato: IEM Cologne 2024
+Data: 11 Aug
+Placar: FURIA 0-2 Vitality
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107204/vitality-vs-furia
+
+# Confronto: FURIA vs HEROIC
+Campeonato: IEM Cologne 2024 Play-in
+Data: 9 Aug
+Placar: FURIA 2-1 HEROIC
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+  Anubis (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107159/furia-vs-heroic
+
+# Confronto: FURIA vs Liquid
+Campeonato: IEM Cologne 2024 Play-in
+Data: 8 Aug
+Placar: FURIA 1-2 Liquid
+
+Mapas jogados:
+  Anubis (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107131/furia-vs-liquid
+
+# Confronto: FURIA vs Imperial
+Campeonato: IEM Cologne 2024 Play-in
+Data: 7 Aug
+Placar: FURIA 2-1 Imperial
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/107096/furia-vs-imperial
+
+# Confronto: FURIA vs MOUZ
+Campeonato: Esports World Cup 2024
+Data: 19 Jul
+Placar: FURIA 1-2 MOUZ
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/106415/mouz-vs-furia
+
+# Confronto: FURIA vs The MongolZ
+Campeonato: Esports World Cup 2024
+Data: 18 Jul
+Placar: FURIA 13-9 The MongolZ
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/179174/the-mongolz-vs-furia
+
+# Confronto: FURIA vs Sashi
+Campeonato: Esports World Cup 2024
+Data: 18 Jul
+Placar: FURIA 19-15 Sashi
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/179146/sashi-vs-furia
+
+# Confronto: FURIA vs FlyQuest
+Campeonato: Esports World Cup 2024
+Data: 18 Jul
+Placar: FURIA 13-5 FlyQuest
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/179125/furia-vs-flyquest
+
+# Confronto: FURIA vs Natus Vincere
+Campeonato: Esports World Cup 2024
+Data: 17 Jul
+Placar: FURIA 0-2 Natus Vincere
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/106282/natus-vincere-vs-furia
+
+# Confronto: FURIA vs Ninjas in Pyjamas
+Campeonato: YaLLa Compass 2024
+Data: 8 Jun
+Placar: FURIA 0-2 Ninjas in Pyjamas
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105661/furia-vs-ninjas-in-pyjamas
+
+# Confronto: FURIA vs Complexity
+Campeonato: YaLLa Compass 2024
+Data: 6 Jun
+Placar: FURIA 13-9 Complexity
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/177207/complexity-vs-furia
+
+# Confronto: FURIA vs fnatic
+Campeonato: YaLLa Compass 2024
+Data: 6 Jun
+Placar: FURIA 13-11 fnatic
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/177178/fnatic-vs-furia
+
+# Confronto: FURIA vs Eternal Fire
+Campeonato: YaLLa Compass 2024
+Data: 6 Jun
+Placar: FURIA 13-7 Eternal Fire
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/177130/eternal-fire-vs-furia
+
+# Confronto: FURIA vs BetBoom
+Campeonato: YaLLa Compass 2024
+Data: 5 Jun
+Placar: FURIA 13-1 BetBoom
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/177056/betboom-vs-furia
+
+# Confronto: FURIA vs BIG
+Campeonato: YaLLa Compass 2024
+Data: 5 Jun
+Placar: FURIA 3-13 BIG
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/177021/furia-vs-big
+
+# Confronto: FURIA vs GUN5
+Campeonato: CCT Season 2 Europe Series 4
+Data: 2 Jun
+Placar: FURIA 0-2 GUN5
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105367/gun5-vs-furia
+
+# Confronto: FURIA vs MOUZ NXT
+Campeonato: CCT Season 2 Europe Series 4
+Data: 2 Jun
+Placar: FURIA 2-0 MOUZ NXT
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105361/furia-vs-mouz-nxt
+
+# Confronto: FURIA vs Zero Tenacity
+Campeonato: CCT Season 2 Europe Series 4
+Data: 1 Jun
+Placar: FURIA 2-0 Zero Tenacity
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105322/furia-vs-zero-tenacity
+
+# Confronto: FURIA vs RUBY
+Campeonato: CCT Season 2 Europe Series 4
+Data: 30 May
+Placar: FURIA 2-1 RUBY
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105271/furia-vs-ruby
+
+# Confronto: FURIA vs 1WIN
+Campeonato: CCT Season 2 Europe Series 3
+Data: 25 May
+Placar: FURIA 1-2 1WIN
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105165/furia-vs-1win
+
+# Confronto: FURIA vs Passion UA
+Campeonato: CCT Season 2 Europe Series 3
+Data: 24 May
+Placar: FURIA 2-0 Passion UA
+
+Mapas jogados:
+  Dust2 (placares não disponíveis)
+  Inferno (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/105149/furia-vs-passion-ua
+
+# Confronto: FURIA vs Monte
+Campeonato: ESL Pro League Season 19
+Data: 5 May
+Placar: FURIA 1-2 Monte
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104522/monte-vs-furia
+
+# Confronto: FURIA vs ENCE
+Campeonato: ESL Pro League Season 19
+Data: 4 May
+Placar: FURIA 2-0 ENCE
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104503/furia-vs-ence
+
+# Confronto: FURIA vs Bad News Kangaroos
+Campeonato: ESL Pro League Season 19
+Data: 3 May
+Placar: FURIA 2-0 Bad News Kangaroos
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104486/bad-news-kangaroos-vs-furia
+
+# Confronto: FURIA vs FORZE
+Campeonato: ESL Pro League Season 19
+Data: 1 May
+Placar: FURIA 0-2 FORZE
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Overpass (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104441/forze-vs-furia
+
+# Confronto: FURIA vs Liquid
+Campeonato: ESL Pro League Season 19
+Data: 30 Apr
+Placar: FURIA 1-2 Liquid
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104419/furia-vs-liquid
+
+# Confronto: FURIA vs MIBR
+Campeonato: Global Esports Tour Rio 2024
+Data: 20 Apr
+Placar: FURIA 0-2 MIBR
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104165/mibr-vs-furia
+
+# Confronto: FURIA vs Metizport
+Campeonato: Global Esports Tour Rio 2024
+Data: 19 Apr
+Placar: FURIA 2-1 Metizport
+
+Mapas jogados:
+  Overpass (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/104144/metizport-vs-furia
+
+# Confronto: FURIA vs 9z
+Campeonato: Global Esports Tour Rio 2024
+Data: 18 Apr
+Placar: FURIA 6-13 9z
+
+Mapas jogados:
+  Overpass (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/173825/furia-vs-9z
+
+# Confronto: FURIA vs HEROIC
+Campeonato: IEM Chengdu 2024
+Data: 9 Apr
+Placar: FURIA 1-2 HEROIC
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+  Nuke (placares não disponíveis)
+  Overpass (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/103816/heroic-vs-furia
+
+# Confronto: FURIA vs MOUZ
+Campeonato: IEM Chengdu 2024
+Data: 8 Apr
+Placar: FURIA 1-2 MOUZ
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/103792/furia-vs-mouz
+
+# Confronto: FURIA vs Lynn Vision
+Campeonato: IEM Chengdu 2024
+Data: 8 Apr
+Placar: FURIA 13-9 Lynn Vision
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/173062/furia-vs-lynn-vision
+
+# Confronto: FURIA vs ECSTATIC
+Campeonato: PGL CS2 Major Copenhagen 2024
+Data: 22 Mar
+Placar: FURIA 1-2 ECSTATIC
+
+Mapas jogados:
+  Overpass (placares não disponíveis)
+  Inferno (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/103438/ecstatic-vs-furia
+
+# Confronto: FURIA vs FaZe
+Campeonato: PGL CS2 Major Copenhagen 2024
+Data: 21 Mar
+Placar: FURIA 7-13 FaZe
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/172328/faze-vs-furia
+
+# Confronto: FURIA vs G2
+Campeonato: PGL CS2 Major Copenhagen 2024
+Data: 21 Mar
+Placar: FURIA 3-13 G2
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/172309/g2-vs-furia
+
+# Confronto: FURIA vs SAW
+Campeonato: PGL CS2 Major Copenhagen 2024 Opening Stage
+Data: 20 Mar
+Placar: FURIA 2-0 SAW
+
+Mapas jogados:
+  Vertigo (placares não disponíveis)
+  Ancient (placares não disponíveis)
+  Overpass (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/103385/saw-vs-furia
+
+# Confronto: FURIA vs ENCE
+Campeonato: PGL CS2 Major Copenhagen 2024 Opening Stage
+Data: 19 Mar
+Placar: FURIA 2-0 ENCE
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+  Ancient (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/103369/ence-vs-furia
+
+# Confronto: FURIA vs KOI
+Campeonato: PGL CS2 Major Copenhagen 2024 Opening Stage
+Data: 18 Mar
+Placar: FURIA 2-0 KOI
+
+Mapas jogados:
+  Overpass (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/103361/koi-vs-furia
+
+# Confronto: FURIA vs Lynn Vision
+Campeonato: PGL CS2 Major Copenhagen 2024 Opening Stage
+Data: 17 Mar
+Placar: FURIA 9-13 Lynn Vision
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/172181/furia-vs-lynn-vision
+
+# Confronto: FURIA vs Legacy
+Campeonato: PGL CS2 Major Copenhagen 2024 Opening Stage
+Data: 17 Mar
+Placar: FURIA 13-16 Legacy
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/172152/furia-vs-legacy
+
+# Confronto: FURIA vs Complexity
+Campeonato: PGL CS2 Major Copenhagen 2024 Americas RMR
+Data: 3 Mar
+Placar: FURIA 2-1 Complexity
+
+Mapas jogados:
+  Overpass (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/102975/furia-vs-complexity
+
+# Confronto: FURIA vs Liquid
+Campeonato: PGL CS2 Major Copenhagen 2024 Americas RMR
+Data: 2 Mar
+Placar: FURIA 13-10 Liquid
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/171221/furia-vs-liquid
+
+# Confronto: FURIA vs Nouns
+Campeonato: PGL CS2 Major Copenhagen 2024 Americas RMR
+Data: 1 Mar
+Placar: FURIA 13-9 Nouns
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/171176/furia-vs-nouns
+
+# Confronto: FURIA vs 9z
+Campeonato: IEM Dallas 2024 South America Closed Qualifier
+Data: 24 Feb
+Placar: FURIA 1-2 9z
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/102779/furia-vs-9z
+
+# Confronto: FURIA vs 9z
+Campeonato: IEM Dallas 2024 South America Closed Qualifier
+Data: 23 Feb
+Placar: FURIA 2-0 9z
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Overpass (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/102764/furia-vs-9z
+
+# Confronto: FURIA vs Imperial
+Campeonato: IEM Dallas 2024 South America Closed Qualifier
+Data: 22 Feb
+Placar: FURIA 2-0 Imperial
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+  Vertigo (placares não disponíveis)
+  Overpass (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/102755/furia-vs-imperial
+
+# Confronto: FURIA vs Metizport
+Campeonato: RES Western European Masters Spring 2024 - BLAST Premier Qualifier
+Data: 10 Feb
+Placar: FURIA 5-13 Metizport
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/170240/furia-vs-metizport
+
+# Confronto: FURIA vs ex-Anonymo
+Campeonato: RES Western European Masters Spring 2024 - BLAST Premier Qualifier
+Data: 10 Feb
+Placar: FURIA 13-10 ex-Anonymo
+
+Mapas jogados:
+  Nuke (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/170237/furia-vs-ex-anonymo
+
+# Confronto: FURIA vs Metizport
+Campeonato: RES Western European Masters Spring 2024 - BLAST Premier Qualifier
+Data: 10 Feb
+Placar: FURIA 5-13 Metizport
+
+Mapas jogados:
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/170232/metizport-vs-furia
+
+# Confronto: FURIA vs Apeks
+Campeonato: IEM Katowice 2024 Play-in
+Data: 1 Feb
+Placar: FURIA 1-2 Apeks
+
+Mapas jogados:
+  Inferno (placares não disponíveis)
+  Mirage (placares não disponíveis)
+  Ancient (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/102304/apeks-vs-furia
+
+# Confronto: FURIA vs The MongolZ
+Campeonato: IEM Katowice 2024 Play-in
+Data: 31 Jan
+Placar: FURIA 14-16 The MongolZ
+
+Mapas jogados:
+  Mirage (placares não disponíveis)
+Link para detalhes: https://www.hltv.org/stats/matches/mapstatsid/169815/furia-vs-the-mongolz
